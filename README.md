@@ -17,8 +17,6 @@ A principal função do aplicativo é calcular e comparar o custo benefício ent
 </p>
 
 
-# Tecnologias utilizadas
-
 ## Linguagem de programação
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
